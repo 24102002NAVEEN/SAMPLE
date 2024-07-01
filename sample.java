@@ -4,5 +4,6 @@ public Static void main(String[]args)
    System.out.println("welcome");
    System.out.println("to");
    System.out.println("deveops");
-  System.out.println("class");
+   System.out.println("class");
+  }
 }
