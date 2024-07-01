@@ -1,7 +1,8 @@
 public class Hello{
-public Static void main(String[] args){
-system.out.println("welcome");
-system.out.println("to");
-system.out.println("deveops");
-system.out.println("class");
+public Static void main(String[]args)
+  {
+   System.out.println("welcome");
+   System.out.println("to");
+   System.out.println("deveops");
+  System.out.println("class");
 }
